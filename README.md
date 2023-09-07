@@ -8,7 +8,7 @@ Commands to run tool in ur terminal
 
     You need to clone this repository
 
-git clone https://github.com/keagtorb/Wa-killer
+git clone https://github.com/aminevln/WhatsappCrasher.git
 
     After you clone the repo you will have to navigate to the folder
 
